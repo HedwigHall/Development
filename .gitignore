@@ -1,4 +1,6 @@
-_site/
-.sass-cache/
+.git/
 .jekyll-cache/
-.jekyll-metadata
+_site/
+.gitignore
+build.bat
+@cmd.bat

@@ -1,0 +1,17 @@
+- title: Home
+  url: /
+
+- title: Clock
+  url: /Tools/Clock/
+
+- title: Whiteboard
+  url: /Tools/Whiteboard/
+
+- title: Notepad
+  url: /Tools/Notepad/
+
+- title: Viewer
+  url: /Viewer/
+
+- title: Other
+  url: /Other/
